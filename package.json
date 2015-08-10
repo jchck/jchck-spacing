@@ -1,0 +1,31 @@
+{
+  "name": "spacing",
+  "version": "1.0.0",
+  "description": "Whitespace css module",
+  "main": "./src/spacing.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://jchck@github.com/jchck/spacing.git"
+  },
+  "keywords": [
+    "css",
+    "oocss"
+  ],
+  "author": "jchck <hey@justinchick.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchck/spacing/issues"
+  },
+  "homepage": "https://github.com/jchck/spacing",
+  "devDependencies": {
+    "bl": "^0.9.4",
+    "gulp": "^3.8.11",
+    "gulp-basswork": "^0.1.0",
+    "gulp-minify-css": "^0.4.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-size": "^1.2.1",
+    "readable-stream": "^1.0.33",
+    "through2": "^0.6.3",
+    "vinyl-transform": "^1.0.0"
+  }
+}
