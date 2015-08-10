@@ -6,7 +6,7 @@ var gulp 		= require('gulp'),
 
 gulp.task('css', function(){
 	gulp.src('./src/spacing.scss')
-		.pipe(sass())
+		.pipe(sass({outputStyle: 'compact'}))
 		.pipe(size({gzip: true, showFiles: true, title:'prefixed'}))
 		.pipe(gulp.dest('./dest'))
 		.pipe(minify())
