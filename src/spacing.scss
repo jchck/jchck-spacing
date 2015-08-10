@@ -3,9 +3,10 @@ $screen-sm:		768px !default;
 $screen-md:		992px !default;
 $screen-lg: 	1200px !default;
 
-$space1:		0.5rem !default;
-$space2:		1.0rem !default;
-$space3:		2.0rem !default;
+$space:			0.5rem !default;
+$space1:		1.0rem !default;
+$space2:		2.0rem !default;
+$space3:		4.0rem !default;
 
 @import "screen";
 @import "screen-xs";

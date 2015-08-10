@@ -13,54 +13,66 @@
 	*
 	**/
 
-	.xs-m0{ margin: 0 }
-	.xs-mt0{ margin-top: 0 }
-	.xs-mr0{ margin-right: 0 }
-	.xs-mb0{ margin-bottom: 0 }
-	.xs-ml0{ margin-left: 0 }
+	.m0-xs{ margin: 0 }
+	.mt0-xs{ margin-top: 0 }
+	.mr0-xs{ margin-right: 0 }
+	.mb0-xs{ margin-bottom: 0 }
+	.ml0-xs{ margin-left: 0 }
 
-	.xs-m1{ margin: $space1 }
-	.xs-mt1{ margin-top: $space1 }
-	.xs-mr1{ margin-right: $space1 }
-	.xs-mb1{ margin-bottom: $space1 }
-	.xs-ml1{ margin-left: $space1 }
+	.m1-xs{ margin: $space }
+	.mt1-xs{ margin-top: $space }
+	.mr1-xs{ margin-right: $space }
+	.mb1-xs{ margin-bottom: $space }
+	.ml1-xs{ margin-left: $space }
 
-	.xs-m2{ margin: $space2 }
-	.xs-mt2{ margin-top: $space2 }
-	.xs-mr2{ margin-right: $space2 }
-	.xs-mb2{ margin-bottom: $space2 }
-	.xs-ml2{ margin-left: $space2 }
+	.m2-xs{ margin: $space1 }
+	.mt2-xs{ margin-top: $space1 }
+	.mr2-xs{ margin-right: $space1 }
+	.mb2-xs{ margin-bottom: $space1 }
+	.ml2-xs{ margin-left: $space1 }
 
-	.xs-m3{ margin: $space3 }
-	.xs-mt3{ margin-top: $space3 }
-	.xs-mr3{ margin-right: $space3 }
-	.xs-mb3{ margin-bottom: $space3 }
-	.xs-ml3{ margin-left: $space3 }
+	.m3-xs{ margin: $space2 }
+	.mt3-xs{ margin-top: $space2 }
+	.mr3-xs{ margin-right: $space2 }
+	.mb3-xs{ margin-bottom: $space2 }
+	.ml3-xs{ margin-left: $space2 }
 
-	.xs-m0auto{ margin: 0 auto }
+	.m4-xs{ margin: $space3 }
+	.mt4-xs{ margin-top: $space3 }
+	.mr4-xs{ margin-right: $space3 }
+	.mb4-xs{ margin-bottom: $space3 }
+	.ml4-xs{ margin-left: $space3 }
+
+	.m0auto-xs{ margin: 0 auto }
 
 
-	.xs-p0{ padding: 0 }
-	.xs-pt0{ padding-top: 0 }
-	.xs-pr0{ padding-right: 0 }
-	.xs-pb0{ padding-bottom: 0 }
-	.xs-pl0{ padding-left: 0 }
+	.p0-xs{ padding: 0 }
+	.pt0-xs{ padding-top: 0 }
+	.pr0-xs{ padding-right: 0 }
+	.pb0-xs{ padding-bottom: 0 }
+	.pl0-xs{ padding-left: 0 }
 
-	.xs-p1{ padding: $space1 }
-	.xs-pt1{ padding-top: $space1 }
-	.xs-pr1{ padding-right: $space1 }
-	.xs-pb1{ padding-bottom: $space1 }
-	.xs-pl1{ padding-left: $space1 }
+	.p1-xs{ padding: $space }
+	.pt1-xs{ padding-top: $space }
+	.pr1-xs{ padding-right: $space }
+	.pb1-xs{ padding-bottom: $space }
+	.pl1-xs{ padding-left: $space }
 
-	.xs-p2{ padding: $space2 }
-	.xs-pt2{ padding-top: $space2 }
-	.xs-pr2{ padding-right: $space2 }
-	.xs-pb2{ padding-bottom: $space2 }
-	.xs-pl2{ padding-left: $space2 }
+	.p2-xs{ padding: $space1 }
+	.pt2-xs{ padding-top: $space1 }
+	.pr2-xs{ padding-right: $space1 }
+	.pb2-xs{ padding-bottom: $space1 }
+	.pl2-xs{ padding-left: $space1 }
 
-	.xs-p3{ padding: $space3 }
-	.xs-pt3{ padding-top: $space3 }
-	.xs-pr3{ padding-right: $space3 }
-	.xs-pb3{ padding-bottom: $space3 }
-	.xs-pl3{ padding-left: $space3 }
+	.p3-xs{ padding: $space2 }
+	.pt3-xs{ padding-top: $space2 }
+	.pr3-xs{ padding-right: $space2 }
+	.pb3-xs{ padding-bottom: $space2 }
+	.pl3-xs{ padding-left: $space2 }
+
+	.p4-xs{ padding: $space3 }
+	.pt4-xs{ padding-top: $space3 }
+	.pr4-xs{ padding-right: $space3 }
+	.pb4-xs{ padding-bottom: $space3 }
+	.pl4-xs{ padding-left: $space3 }
 }
