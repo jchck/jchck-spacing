@@ -39,3 +39,28 @@ $space3:	2.0rem !default;
 .mr3{ margin-right: $space3 }
 .mb3{ margin-bottom: $space3 }
 .ml3{ margin-left: $space3 }
+
+
+.p0{ padding: 0 }
+.pt0{ padding-top: 0 }
+.pr0{ padding-right: 0 }
+.pb0{ padding-bottom: 0 }
+.pl0{ padding-left: 0 }
+
+.p1{ padding: $space1 }
+.pt1{ padding-top: $space1 }
+.pr1{ padding-right: $space1 }
+.pb1{ padding-bottom: $space1 }
+.pl1{ padding-left: $space }
+
+.p2{ padding: $space2 }
+.pt2{ padding-top: $space2 }
+.pr2{ padding-right: $space2 }
+.pb2{ padding-bottom: $space2 }
+.pl2{ padding-left: $space2 }
+
+.p3{ padding: $space3 }
+.pt3{ padding-top: $space3 }
+.pr3{ padding-right: $space3 }
+.pb3{ padding-bottom: $space3 }
+.pl3{ padding-left: $space3 }
