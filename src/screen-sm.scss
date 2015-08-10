@@ -1,0 +1,66 @@
+@media (min-width: $screen-sm){
+	/**
+	*
+	* Spacing
+	* 
+	* m = margin
+	* p = padding
+	*
+	* t = top
+	* r = right
+	* b = bottom
+	* l = left
+	*
+	**/
+
+	.sm-m0{ margin: 0 }
+	.sm-mt0{ margin-top: 0 }
+	.sm-mr0{ margin-right: 0 }
+	.sm-mb0{ margin-bottom: 0 }
+	.sm-ml0{ margin-left: 0 }
+
+	.sm-m1{ margin: $space1 }
+	.sm-mt1{ margin-top: $space1 }
+	.sm-mr1{ margin-right: $space1 }
+	.sm-mb1{ margin-bottom: $space1 }
+	.sm-ml1{ margin-left: $space1 }
+
+	.sm-m2{ margin: $space2 }
+	.sm-mt2{ margin-top: $space2 }
+	.sm-mr2{ margin-right: $space2 }
+	.sm-mb2{ margin-bottom: $space2 }
+	.sm-ml2{ margin-left: $space2 }
+
+	.sm-m3{ margin: $space3 }
+	.sm-mt3{ margin-top: $space3 }
+	.sm-mr3{ margin-right: $space3 }
+	.sm-mb3{ margin-bottom: $space3 }
+	.sm-ml3{ margin-left: $space3 }
+
+	.sm-m0auto{ margin: 0 auto }
+
+
+	.sm-p0{ padding: 0 }
+	.sm-pt0{ padding-top: 0 }
+	.sm-pr0{ padding-right: 0 }
+	.sm-pb0{ padding-bottom: 0 }
+	.sm-pl0{ padding-left: 0 }
+
+	.sm-p1{ padding: $space1 }
+	.sm-pt1{ padding-top: $space1 }
+	.sm-pr1{ padding-right: $space1 }
+	.sm-pb1{ padding-bottom: $space1 }
+	.sm-pl1{ padding-left: $space1 }
+
+	.sm-p2{ padding: $space2 }
+	.sm-pt2{ padding-top: $space2 }
+	.sm-pr2{ padding-right: $space2 }
+	.sm-pb2{ padding-bottom: $space2 }
+	.sm-pl2{ padding-left: $space2 }
+
+	.sm-p3{ padding: $space3 }
+	.sm-pt3{ padding-top: $space3 }
+	.sm-pr3{ padding-right: $space3 }
+	.sm-pb3{ padding-bottom: $space3 }
+	.sm-pl3{ padding-left: $space3 }
+}

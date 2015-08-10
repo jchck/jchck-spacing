@@ -1,8 +1,14 @@
-$screen-xs:	480px !default;
+$screen-xs:		480px !default;
+$screen-sm:		768px !default;
+$screen-md:		992px !default;
+$screen-lg: 	1200px !default;
 
-$space1:	0.5rem !default;
-$space2:	1.0rem !default;
-$space3:	2.0rem !default;
+$space1:		0.5rem !default;
+$space2:		1.0rem !default;
+$space3:		2.0rem !default;
 
 @import "screen";
 @import "screen-xs";
+@import "screen-sm";
+@import "screen-md";
+@import "screen-lg";

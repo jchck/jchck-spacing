@@ -1,0 +1,66 @@
+@media (min-width: $screen-lg){
+	/**
+	*
+	* Spacing
+	* 
+	* m = margin
+	* p = padding
+	*
+	* t = top
+	* r = right
+	* b = bottom
+	* l = left
+	*
+	**/
+
+	.lg-m0{ margin: 0 }
+	.lg-mt0{ margin-top: 0 }
+	.lg-mr0{ margin-right: 0 }
+	.lg-mb0{ margin-bottom: 0 }
+	.lg-ml0{ margin-left: 0 }
+
+	.lg-m1{ margin: $space1 }
+	.lg-mt1{ margin-top: $space1 }
+	.lg-mr1{ margin-right: $space1 }
+	.lg-mb1{ margin-bottom: $space1 }
+	.lg-ml1{ margin-left: $space1 }
+
+	.lg-m2{ margin: $space2 }
+	.lg-mt2{ margin-top: $space2 }
+	.lg-mr2{ margin-right: $space2 }
+	.lg-mb2{ margin-bottom: $space2 }
+	.lg-ml2{ margin-left: $space2 }
+
+	.lg-m3{ margin: $space3 }
+	.lg-mt3{ margin-top: $space3 }
+	.lg-mr3{ margin-right: $space3 }
+	.lg-mb3{ margin-bottom: $space3 }
+	.lg-ml3{ margin-left: $space3 }
+
+	.lg-m0auto{ margin: 0 auto }
+
+
+	.lg-p0{ padding: 0 }
+	.lg-pt0{ padding-top: 0 }
+	.lg-pr0{ padding-right: 0 }
+	.lg-pb0{ padding-bottom: 0 }
+	.lg-pl0{ padding-left: 0 }
+
+	.lg-p1{ padding: $space1 }
+	.lg-pt1{ padding-top: $space1 }
+	.lg-pr1{ padding-right: $space1 }
+	.lg-pb1{ padding-bottom: $space1 }
+	.lg-pl1{ padding-left: $space1 }
+
+	.lg-p2{ padding: $space2 }
+	.lg-pt2{ padding-top: $space2 }
+	.lg-pr2{ padding-right: $space2 }
+	.lg-pb2{ padding-bottom: $space2 }
+	.lg-pl2{ padding-left: $space2 }
+
+	.lg-p3{ padding: $space3 }
+	.lg-pt3{ padding-top: $space3 }
+	.lg-pr3{ padding-right: $space3 }
+	.lg-pb3{ padding-bottom: $space3 }
+	.lg-pl3{ padding-left: $space3 }
+}
