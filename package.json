@@ -1,5 +1,5 @@
 {
-  "name": "spacing",
+  "name": "jchck-spacing",
   "version": "1.0.0",
   "description": "Whitespace css module",
   "main": "./src/spacing.scss",
