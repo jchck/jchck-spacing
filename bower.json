@@ -1,0 +1,23 @@
+{
+  "name": "jchck-spacing",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jchck/spacing",
+  "authors": [
+    "jchck <hey@justinchick.com>"
+  ],
+  "description": "Whitespace css module",
+  "main": "./src/spacing.scss",
+  "keywords": [
+    "css",
+    "oocss",
+    "jchck"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
