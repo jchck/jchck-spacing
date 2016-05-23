@@ -55,32 +55,42 @@
 .m0auto { margin: 0 auto }
 
 
-.p0{ padding: 0 } //0 rem
-.pt0{ padding-top: 0 }
-.pr0{ padding-right: 0 }
-.pb0{ padding-bottom: 0 }
-.pl0{ padding-left: 0 }
+.p0     { padding:         0 } //0 rem
+.pt0    { padding-top:     0 }
+.pr0    { padding-right:   0 }
+.pb0    { padding-bottom:  0 }
+.pl0    { padding-left:    0 }
+.px0    { padding-top:     0; padding-bottom: 0; }
+.py0    { padding-left:    0; padding-right:  0; }
 
-.p1{ padding: $space } //0.5 rem
-.pt1{ padding-top: $space }
-.pr1{ padding-right: $space }
-.pb1{ padding-bottom: $space }
-.pl1{ padding-left: $space }
+.p1    { padding:         $space } //0.5 rem
+.pt1   { padding-top:     $space }
+.pr1   { padding-right:   $space }
+.pb1   { padding-bottom:  $space }
+.pl1   { padding-left:    $space }
+.px1   { padding-top:     $space; padding-bottom: $space; }
+.py1   { padding-left:    $space; padding-right:  $space; }
 
-.p2{ padding: $space1 } //1 rem
-.pt2{ padding-top: $space1 }
-.pr2{ padding-right: $space1 }
-.pb2{ padding-bottom: $space1 }
-.pl2{ padding-left: $space1 }
+.p2    { padding:          $space1 } //1 rem
+.pt2   { padding-top:      $space1 }
+.pr2   { padding-right:    $space1 }
+.pb2   { padding-bottom:   $space1 }
+.pl2   { padding-left:     $space1 }
+.px2   { padding-top:      $space1; padding-bottom: $space1; }
+.py2   { padding-left:     $space1; padding-right:  $space1; }
 
-.p3{ padding: $space2 } //2 rem
-.pt3{ padding-top: $space2 }
-.pr3{ padding-right: $space2 }
-.pb3{ padding-bottom: $space2 }
-.pl3{ padding-left: $space2 }
+.p3    { padding:          $space2 } //2 rem
+.pt3   { padding-top:      $space2 }
+.pr3   { padding-right:    $space2 }
+.pb3   { padding-bottom:   $space2 }
+.pl3   { padding-left:     $space2 }
+.px3   { padding-top:      $space2; padding-bottom: $space2; }
+.py3   { padding-left:     $space2; padding-right:  $space2; }
 
-.p4{ padding: $space3 } //4 rem
-.pt4{ padding-top: $space3 }
-.pr4{ padding-right: $space3 }
-.pb4{ padding-bottom: $space3 }
-.pl4{ padding-left: $space3 }
+.p4    { padding:          $space3 } //4 rem
+.pt4   { padding-top:      $space3 }
+.pr4   { padding-right:    $space3 }
+.pb4   { padding-bottom:   $space3 }
+.pl4   { padding-left:     $space3 }
+.px4   { padding-top:      $space3; padding-bottom: $space3; }
+.py4   { padding-left:     $space3; padding-right:  $space3; }
