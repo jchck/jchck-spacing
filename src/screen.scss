@@ -12,37 +12,47 @@
 *
 */
 
-.m0{ margin: 0 } // 0 rem
-.mt0{ margin-top: 0 }
-.mr0{ margin-right: 0 }
-.mb0{ margin-bottom: 0 }
-.ml0{ margin-left: 0 }
+.m0		{ margin: 		  0 } // 0 rem
+.mt0	{ margin-top: 	  0 }
+.mr0	{ margin-right:   0 }
+.mb0	{ margin-bottom:  0 }
+.ml0	{ margin-left: 	  0 }
+.mx0	{ margin-top: 	  0; margin-bottom: 0; }
+.my0	{ margin-left: 	  0; margin-right:  0; }
 
-.m1{ margin: $space } // 0.5 rem
-.mt1{ margin-top: $space }
-.mr1{ margin-right: $space }
-.mb1{ margin-bottom: $space }
-.ml1{ margin-left: $space }
+.m1     { margin:         $space } // 0.5 rem
+.mt1    { margin-top:     $space }
+.mr1    { margin-right:   $space }
+.mb1    { margin-bottom:  $space }
+.ml1    { margin-left:    $space }
+.mx1    { margin-top:     $space; margin-bottom: $space; }
+.my1    { margin-left:    $space; margin-right:  $space; }
 
-.m2{ margin: $space1 } // 1 rem
-.mt2{ margin-top: $space1 }
-.mr2{ margin-right: $space1 }
-.mb2{ margin-bottom: $space1 }
-.ml2{ margin-left: $space1 }
+.m2     { margin:         $space1 } // 1 rem
+.mt2    { margin-top:     $space1 }
+.mr2    { margin-right:   $space1 }
+.mb2    { margin-bottom:  $space1 }
+.ml2    { margin-left:    $space1 }
+.mx2    { margin-top:     $space1; margin-bottom: $space1; }
+.my2    { margin-left:    $space1; margin-right:  $space1; }
 
-.m3{ margin: $space2 } // 2 rem
-.mt3{ margin-top: $space2 }
-.mr3{ margin-right: $space2 }
-.mb3{ margin-bottom: $space2 }
-.ml3{ margin-left: $space2 }
+.m3     { margin:         $space2 } // 2 rem
+.mt3    { margin-top:     $space2 }
+.mr3    { margin-right:   $space2 }
+.mb3    { margin-bottom:  $space2 }
+.ml3    { margin-left:    $space2 }
+.mx3    { margin-top:     $space2; margin-bottom: $space2; }
+.my3    { margin-left:    $space2; margin-right:  $space2; }
 
-.m4{ margin: $space3 } // 4 rem
-.mt4{ margin-top: $space3 }
-.mr4{ margin-right: $space3 }
-.mb4{ margin-bottom: $space3 }
-.ml4{ margin-left: $space3 }
+.m4     { margin:         $space3 } // 4 rem
+.mt4    { margin-top:     $space3 }
+.mr4    { margin-right:   $space3 }
+.mb4    { margin-bottom:  $space3 }
+.ml4    { margin-left:    $space3 }
+.mx4    { margin-top:     $space3; margin-bottom: $space3; }
+.my4    { margin-left:    $space3; margin-right:  $space3; }
 
-.m0auto{ margin: 0 auto }
+.m0auto { margin: 0 auto }
 
 
 .p0{ padding: 0 } //0 rem
