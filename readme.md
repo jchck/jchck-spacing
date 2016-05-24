@@ -1,5 +1,5 @@
 # jchck spacing
-A whitespace css module writen in sass, makes use of [Bootstrap's](http://getbootstrap.com) default variables.
+A whitespace css module written in sass, makes use of [Bootstrap's](http://getbootstrap.com) default variables.
 
 ## install via bower
 ```
