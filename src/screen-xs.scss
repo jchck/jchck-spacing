@@ -13,66 +13,87 @@
 	*
 	**/
 
-	.m0-xs{ margin: 0 }
-	.mt0-xs{ margin-top: 0 }
-	.mr0-xs{ margin-right: 0 }
-	.mb0-xs{ margin-bottom: 0 }
-	.ml0-xs{ margin-left: 0 }
+	.m0-xs  { margin:         0 }
+	.mt0-xs { margin-top:     0 }
+	.mr0-xs { margin-right:   0 }
+	.mb0-xs { margin-bottom:  0 }
+	.ml0-xs { margin-left:    0 }
+	.mx0-xs	{ margin-top: 	  0; margin-bottom: 0; }
+	.my0-xs	{ margin-left: 	  0; margin-right:  0; }
 
-	.m1-xs{ margin: $space }
-	.mt1-xs{ margin-top: $space }
-	.mr1-xs{ margin-right: $space }
-	.mb1-xs{ margin-bottom: $space }
-	.ml1-xs{ margin-left: $space }
+	.m1-xs  { margin:         $space }
+	.mt1-xs { margin-top:     $space }
+	.mr1-xs { margin-right:   $space }
+	.mb1-xs { margin-bottom:  $space }
+	.ml1-xs { margin-left:    $space }
+	.mx1-xs	{ margin-top: 	  0; margin-bottom: 0; }
+	.my1-xs	{ margin-left: 	  0; margin-right:  0; }
 
-	.m2-xs{ margin: $space1 }
-	.mt2-xs{ margin-top: $space1 }
-	.mr2-xs{ margin-right: $space1 }
-	.mb2-xs{ margin-bottom: $space1 }
-	.ml2-xs{ margin-left: $space1 }
+	.m2-xs  { margin:         $space1 }
+	.mt2-xs { margin-top:     $space1 }
+	.mr2-xs { margin-right:   $space1 }
+	.mb2-xs { margin-bottom:  $space1 }
+	.ml2-xs { margin-left:    $space1 }
+	.mx2-xs	{ margin-top: 	  0; margin-bottom: 0; }
+	.my2-xs	{ margin-left: 	  0; margin-right:  0; }
 
-	.m3-xs{ margin: $space2 }
-	.mt3-xs{ margin-top: $space2 }
-	.mr3-xs{ margin-right: $space2 }
-	.mb3-xs{ margin-bottom: $space2 }
-	.ml3-xs{ margin-left: $space2 }
 
-	.m4-xs{ margin: $space3 }
-	.mt4-xs{ margin-top: $space3 }
-	.mr4-xs{ margin-right: $space3 }
-	.mb4-xs{ margin-bottom: $space3 }
-	.ml4-xs{ margin-left: $space3 }
+	.m3-xs  { margin:        $space2 }
+	.mt3-xs { margin-top:    $space2 }
+	.mr3-xs { margin-right:  $space2 }
+	.mb3-xs { margin-bottom: $space2 }
+	.ml3-xs { margin-left:   $space2 }
+	.mx3-xs	{ margin-top: 	 0; margin-bottom: 0; }
+	.my3-xs	{ margin-left: 	 0; margin-right:  0; }
+
+	.m4-xs  { margin:        $space3 }
+	.mt4-xs { margin-top:    $space3 }
+	.mr4-xs { margin-right:  $space3 }
+	.mb4-xs { margin-bottom: $space3 }
+	.ml4-xs { margin-left:   $space3 }
+	.mx4-xs	{ margin-top: 	 0; margin-bottom: 0; }
+	.my4-xs	{ margin-left: 	 0; margin-right:  0; }
 
 	.m0auto-xs{ margin: 0 auto }
 
 
-	.p0-xs{ padding: 0 }
-	.pt0-xs{ padding-top: 0 }
-	.pr0-xs{ padding-right: 0 }
-	.pb0-xs{ padding-bottom: 0 }
-	.pl0-xs{ padding-left: 0 }
+	.p0-xs  { padding:        0 }
+	.pt0-xs { padding-top:    0 }
+	.pr0-xs { padding-right:  0 }
+	.pb0-xs { padding-bottom: 0 }
+	.pl0-xs { padding-left:   0 }
+	.px0-xs { padding-top:    0; padding-bottom: 0; }
+	.py0-xs { padding-left:   0; padding-right:  0; }
 
-	.p1-xs{ padding: $space }
-	.pt1-xs{ padding-top: $space }
-	.pr1-xs{ padding-right: $space }
-	.pb1-xs{ padding-bottom: $space }
-	.pl1-xs{ padding-left: $space }
+	.p1-xs  { padding:        $space }
+	.pt1-xs { padding-top:    $space }
+	.pr1-xs { padding-right:  $space }
+	.pb1-xs { padding-bottom: $space }
+	.pl1-xs { padding-left:   $space }
+	.px1-xs { padding-top:    $space; padding-bottom: $space; }
+	.py1-xs { padding-left:   $space; padding-right:  $space; }
 
-	.p2-xs{ padding: $space1 }
-	.pt2-xs{ padding-top: $space1 }
-	.pr2-xs{ padding-right: $space1 }
-	.pb2-xs{ padding-bottom: $space1 }
-	.pl2-xs{ padding-left: $space1 }
+	.p2-xs  { padding:         $space1 }
+	.pt2-xs { padding-top:     $space1 }
+	.pr2-xs { padding-right:   $space1 }
+	.pb2-xs { padding-bottom:  $space1 }
+	.pl2-xs { padding-left:    $space1 }
+	.px2-xs { padding-top:     $space1; padding-bottom: $space1; }
+	.py2-xs { padding-left:    $space1; padding-right:  $space1; }
 
-	.p3-xs{ padding: $space2 }
-	.pt3-xs{ padding-top: $space2 }
-	.pr3-xs{ padding-right: $space2 }
-	.pb3-xs{ padding-bottom: $space2 }
-	.pl3-xs{ padding-left: $space2 }
+	.p3-xs  { padding:          $space2 }
+	.pt3-xs { padding-top:      $space2 }
+	.pr3-xs { padding-right:    $space2 }
+	.pb3-xs { padding-bottom:   $space2 }
+	.pl3-xs { padding-left:     $space2 }
+	.px3-xs { padding-top:      $space2; padding-bottom: $space2; }
+	.py3-xs { padding-left:     $space2; padding-right:  $space2; }
 
-	.p4-xs{ padding: $space3 }
-	.pt4-xs{ padding-top: $space3 }
-	.pr4-xs{ padding-right: $space3 }
-	.pb4-xs{ padding-bottom: $space3 }
-	.pl4-xs{ padding-left: $space3 }
+	.p4-xs  { padding:          $space3 }
+	.pt4-xs { padding-top:      $space3 }
+	.pr4-xs { padding-right:    $space3 }
+	.pb4-xs { padding-bottom:   $space3 }
+	.pl4-xs { padding-left:     $space3 }
+	.px4-xs { padding-top:      $space3; padding-bottom: $space3; }
+	.py4-xs { padding-left:     $space3; padding-right:  $space3; }
 }

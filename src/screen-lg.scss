@@ -13,66 +13,87 @@
 	*
 	**/
 
-	.m0-lg{ margin: 0 }
-	.mt0-lg{ margin-top: 0 }
-	.mr0-lg{ margin-right: 0 }
-	.mb0-lg{ margin-bottom: 0 }
-	.ml0-lg{ margin-left: 0 }
+	.m0-lg  { margin:         0 }
+	.mt0-lg { margin-top:     0 }
+	.mr0-lg { margin-right:   0 }
+	.mb0-lg { margin-bottom:  0 }
+	.ml0-lg { margin-left:    0 }
+	.mx0-lg	{ margin-top: 	  0; margin-bottom: 0; }
+	.my0-lg	{ margin-left: 	  0; margin-right:  0; }
 
-	.m1-lg{ margin: $space }
-	.mt1-lg{ margin-top: $space }
-	.mr1-lg{ margin-right: $space }
-	.mb1-lg{ margin-bottom: $space }
-	.ml1-lg{ margin-left: $space }
+	.m1-lg  { margin:         $space }
+	.mt1-lg { margin-top:     $space }
+	.mr1-lg { margin-right:   $space }
+	.mb1-lg { margin-bottom:  $space }
+	.ml1-lg { margin-left:    $space }
+	.mx1-lg	{ margin-top: 	  0; margin-bottom: 0; }
+	.my1-lg	{ margin-left: 	  0; margin-right:  0; }
 
-	.m2-lg{ margin: $space1 }
-	.mt2-lg{ margin-top: $space1 }
-	.mr2-lg{ margin-right: $space1 }
-	.mb2-lg{ margin-bottom: $space1 }
-	.ml2-lg{ margin-left: $space1 }
+	.m2-lg  { margin:         $space1 }
+	.mt2-lg { margin-top:     $space1 }
+	.mr2-lg { margin-right:   $space1 }
+	.mb2-lg { margin-bottom:  $space1 }
+	.ml2-lg { margin-left:    $space1 }
+	.mx2-lg	{ margin-top: 	  0; margin-bottom: 0; }
+	.my2-lg	{ margin-left: 	  0; margin-right:  0; }
 
-	.m3-lg{ margin: $space2 }
-	.mt3-lg{ margin-top: $space2 }
-	.mr3-lg{ margin-right: $space2 }
-	.mb3-lg{ margin-bottom: $space2 }
-	.ml3-lg{ margin-left: $space2 }
 
-	.m4-lg{ margin: $space3 }
-	.mt4-lg{ margin-top: $space3 }
-	.mr4-lg{ margin-right: $space3 }
-	.mb4-lg{ margin-bottom: $space3 }
-	.ml4-lg{ margin-left: $space3 }
+	.m3-lg  { margin:        $space2 }
+	.mt3-lg { margin-top:    $space2 }
+	.mr3-lg { margin-right:  $space2 }
+	.mb3-lg { margin-bottom: $space2 }
+	.ml3-lg { margin-left:   $space2 }
+	.mx3-lg	{ margin-top: 	 0; margin-bottom: 0; }
+	.my3-lg	{ margin-left: 	 0; margin-right:  0; }
+
+	.m4-lg  { margin:        $space3 }
+	.mt4-lg { margin-top:    $space3 }
+	.mr4-lg { margin-right:  $space3 }
+	.mb4-lg { margin-bottom: $space3 }
+	.ml4-lg { margin-left:   $space3 }
+	.mx4-lg	{ margin-top: 	 0; margin-bottom: 0; }
+	.my4-lg	{ margin-left: 	 0; margin-right:  0; }
 
 	.m0auto-lg{ margin: 0 auto }
 
 
-	.p0-lg{ padding: 0 }
-	.pt0-lg{ padding-top: 0 }
-	.pr0-lg{ padding-right: 0 }
-	.pb0-lg{ padding-bottom: 0 }
-	.pl0-lg{ padding-left: 0 }
+	.p0-lg  { padding:        0 }
+	.pt0-lg { padding-top:    0 }
+	.pr0-lg { padding-right:  0 }
+	.pb0-lg { padding-bottom: 0 }
+	.pl0-lg { padding-left:   0 }
+	.px0-lg { padding-top:    0; padding-bottom: 0; }
+	.py0-lg { padding-left:   0; padding-right:  0; }
 
-	.p1-lg{ padding: $space }
-	.pt1-lg{ padding-top: $space }
-	.pr1-lg{ padding-right: $space }
-	.pb1-lg{ padding-bottom: $space }
-	.pl1-lg{ padding-left: $space }
+	.p1-lg  { padding:        $space }
+	.pt1-lg { padding-top:    $space }
+	.pr1-lg { padding-right:  $space }
+	.pb1-lg { padding-bottom: $space }
+	.pl1-lg { padding-left:   $space }
+	.px1-lg { padding-top:    $space; padding-bottom: $space; }
+	.py1-lg { padding-left:   $space; padding-right:  $space; }
 
-	.p2-lg{ padding: $space1 }
-	.pt2-lg{ padding-top: $space1 }
-	.pr2-lg{ padding-right: $space1 }
-	.pb2-lg{ padding-bottom: $space1 }
-	.pl2-lg{ padding-left: $space1 }
+	.p2-lg  { padding:         $space1 }
+	.pt2-lg { padding-top:     $space1 }
+	.pr2-lg { padding-right:   $space1 }
+	.pb2-lg { padding-bottom:  $space1 }
+	.pl2-lg { padding-left:    $space1 }
+	.px2-lg { padding-top:     $space1; padding-bottom: $space1; }
+	.py2-lg { padding-left:    $space1; padding-right:  $space1; }
 
-	.p3-lg{ padding: $space2 }
-	.pt3-lg{ padding-top: $space2 }
-	.pr3-lg{ padding-right: $space2 }
-	.pb3-lg{ padding-bottom: $space2 }
-	.pl3-lg{ padding-left: $space2 }
+	.p3-lg  { padding:          $space2 }
+	.pt3-lg { padding-top:      $space2 }
+	.pr3-lg { padding-right:    $space2 }
+	.pb3-lg { padding-bottom:   $space2 }
+	.pl3-lg { padding-left:     $space2 }
+	.px3-lg { padding-top:      $space2; padding-bottom: $space2; }
+	.py3-lg { padding-left:     $space2; padding-right:  $space2; }
 
-	.p4-lg{ padding: $space3 }
-	.pt4-lg{ padding-top: $space3 }
-	.pr4-lg{ padding-right: $space3 }
-	.pb4-lg{ padding-bottom: $space3 }
-	.pl4-lg{ padding-left: $space3 }
+	.p4-lg  { padding:          $space3 }
+	.pt4-lg { padding-top:      $space3 }
+	.pr4-lg { padding-right:    $space3 }
+	.pb4-lg { padding-bottom:   $space3 }
+	.pl4-lg { padding-left:     $space3 }
+	.px4-lg { padding-top:      $space3; padding-bottom: $space3; }
+	.py4-lg { padding-left:     $space3; padding-right:  $space3; }
 }
