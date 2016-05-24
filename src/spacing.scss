@@ -8,8 +8,8 @@ $space1:		1.0rem !default;
 $space2:		2.0rem !default;
 $space3:		3.0rem !default;
 
-@import "screen";
-@import "screen-xs";
-@import "screen-sm";
-@import "screen-md";
-@import "screen-lg";
+@import "_screen";
+@import "_screen-xs";
+@import "_screen-sm";
+@import "_screen-md";
+@import "_screen-lg";
